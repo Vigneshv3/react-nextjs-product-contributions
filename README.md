@@ -17,3 +17,6 @@ The artifacts here are a retrospective consolidation of work carried out between
 - Reducing adoption friction for new developers.
 
 While this repository was organized later, the work reflects real problem analysis, product thinking, and community-driven insights derived from GitHub issues, discussions, and RFCs.
+
+## How to Read This Repo
+Each folder represents a stage in the product lifecycle — from problem discovery and user research to solution definition, success metrics, and learnings.
