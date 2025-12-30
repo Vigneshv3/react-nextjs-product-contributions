@@ -20,3 +20,8 @@ While this repository was organized later, the work reflects real problem analys
 
 ## How to Read This Repo
 Each folder represents a stage in the product lifecycle — from problem discovery and user research to solution definition, success metrics, and learnings.
+
+## Featured Work
+- 📄 [App Router Onboarding Case Study](case-studies/nextjs-app-router-onboarding.md)
+- 📄 [Server vs Client Component Decision Case](case-studies/server-vs-client-components.md)
+- 🧾 [Next.js Onboarding Improvement PRD](prds/improve-nextjs-onboarding.md)
